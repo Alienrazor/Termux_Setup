@@ -198,9 +198,9 @@ echo -e '\e[96m
         ╔═══════════════════════════════════╗\e[0m
  \e[96m       ║  \e[93mHI, I M ALIENRAZOR TOOL OWNER.\e[96m   ║\e[0m
  \e[96m       ║       FOLLOW ME ON GITHUB   \e[96m      ║\e[0m
- \e[96m       ║   \e[91m         MALICIOUS             \e[96m ║\e[0m
- \e[96m       ║       ANDROID, WINDOWS, MAC      \e[96m ║\e[0m
- \e[96m       ║      APP, LINKS, EVERYTHING      \e[96m ║\e[0m
+ \e[96m       ║   \e[91m                             \e[96m ║\e[0m
+ \e[96m       ║                               \e[96m ║\e[0m
+ \e[96m       ║                             \e[96m ║\e[0m
  \e[96m       ║        \e[91m  ❌DISCLAIMER❌ \e[96m    \e[96m      ║\e[0m
  \e[96m       ║           IN ANY CASE            \e[96m ║\e[0m
  \e[96m       ║      I M NOT RESPONSIBLE FOR      \e[96m║\e[0m
